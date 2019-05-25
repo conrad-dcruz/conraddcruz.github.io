@@ -1,0 +1,76 @@
+{
+    "title": "Norma",
+    "fullImage": "",
+    "size": "small",
+    "group": true,
+    "spread": {
+        "name": "Squatty - Redefining the Squatting Toilet",
+        "category": "Industrial Design",
+        "date": "November 25, 2017",
+        "tags": [
+            "Industrial Design",
+            "User Experience",
+            "Commode",
+            "Hygiene",
+            "Indian Toilets",
+            "Toilets",
+            "Squatting Toilet"
+        ],
+        "awards": [
+            {
+                "thumb": "",
+                "description": "International Design Association Award, Taiwan International Student Design Competition, 2018"
+            },
+            {
+                "thumb": "",
+                "description": "Third Place - Industrial Design, Pune Design Festival 2018"
+            }
+        ],
+        "spreadList":[
+            {
+                "type":"img",
+                "filename":"1.png"
+            },
+            {
+                "type":"img",
+                "filename":"2.png"
+            },
+            {
+                "type":"img",
+                "filename":"3.png"
+            },
+            {
+                "type":"img",
+                "filename":"4.png"
+            },
+            {
+                "type":"img",
+                "filename":"5.png"
+            },
+            {
+                "type":"img",
+                "filename":"6.png"
+            },
+            {
+                "type":"img",
+                "filename":"7.png"
+            },
+            {
+                "type":"img",
+                "filename":"8.png"
+            },
+            {
+                "type":"img",
+                "filename":"9.png"
+            },
+            {
+                "type":"img",
+                "filename":"10.png"
+            },
+            {
+                "type":"img",
+                "filename":"11.png"
+            }
+        ]
+    }
+}

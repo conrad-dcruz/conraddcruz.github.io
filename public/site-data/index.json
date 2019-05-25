@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "id": "squatty",
+            "title": "Squatty",
+            "size": "large"
+        },
+        {
+            "id": "norma",
+            "title": "Norma",
+            "size": "small"
+        },
+        {
+            "id": "aqua-ferti",
+            "title": "Aqua-Ferti Seed Drill",
+            "size": "small"
+        },
+        {
+            "id": "holopit",
+            "title": "Holopit",
+            "size": "large"
+        }
+    ]
+}

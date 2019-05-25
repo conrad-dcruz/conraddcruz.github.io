@@ -1,0 +1,72 @@
+{
+    "title": {
+        "subtitle": "I'm an Industrial designer from Goa, India. I think of product form as a tactile interface that elevates user experience",
+        "avatarUrl": ""
+    },
+    "education": [
+        {
+            "heading": "Masters of Design",
+            "content": "Design Programme, IIT Kanpur, India",
+            "date": "2016 - 2018",
+            "uniLogo": "site-data/about/img/iitk.svg"
+        },
+        {
+            "heading": "Bachelors of Architecture",
+            "content": "Goa College of Architecture, Goa, India",
+            "date": "2010 - 2015",
+            "uniLogo": "site-data/about/img/gca.svg"
+        }
+    ],
+    "work": [
+        {
+            "heading": "July 2018 - Present",
+            "content": "Industrial Designer at Desmania Design Pvt. Ltd."
+        },
+        {
+            "heading": "June 2015 - June 2016",
+            "content": "Assistant architect to Ketak Nachinolkar, Conservation  Architect, Goa"
+        }
+    ],
+    "awards": [
+        {
+            "heading": "International Design Association Award TISDC 2018",
+            "content": "Taiwan International Student Design Competition 2018 · Taiwan Design Alliance ·  Awarded to project SQUATT in the product design category",
+            "date": "November 2018"
+        },
+        {
+            "heading": "Academic Excellence Award",
+            "content": "Award for academic performance in Semester II Masters of  Design · Design Programme · IIT Kanpur",
+            "date": "April 2018"
+        },
+        {
+            "heading": "Third Place in Industrial Design · Pune Design Festival 2018",
+            "content": "Third place for project 'Squatt', a squatting toilet, in the Industrial Design category  of the ADI Battle of Projects competition at the Pune Design Festival 2018 ·  Association of Designers of India",
+            "date": "February 2018"
+        },
+        {
+            "heading": "Academic Excellence Award",
+            "content": "Award for academic performance in Semester I Masters of  Design · Design Programme · IIT Kanpur",
+            "date": "September 2017"
+        },
+        {
+            "heading": "Special Mention · Honeywell Aerospace Design Challenge 2017",
+            "content": "Honeywell Aerospace",
+            "date": "February 2017"
+        },
+        {
+            "heading": "Lawrence Trophy",
+            "content": "Award for best architectural working drawings 3rd year B.Arch · Goa  College of Architecture",
+            "date": "2012"
+        },
+        {
+            "heading": "DD Sukhtankar trophy · 2nd place",
+            "content": "2nd place Design Studio 2nd Year B.Arch · Goa College of Architecture",
+            "date": "2011"
+        },
+        {
+            "heading": "GCATA award for academic excellence",
+            "content": "Award for academic excellence in 1st Year B.Arch · Goa College of Architecture",
+            "date": "2010"
+        }
+    ]
+}
