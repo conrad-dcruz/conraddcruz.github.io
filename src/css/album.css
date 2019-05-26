@@ -35,6 +35,7 @@
   .portfolio-title{
     font-size: 14px !important;
     margin-right: 0px !important; 
+    margin-left: 5px;
   }
   .navbar-brand{
     margin-right: 0px !important; 
@@ -126,8 +127,6 @@ footer p {
 
 .portfolio-title {
   height: 50%;
-  -webkit-backdrop-filter: blur(30px);
-  backdrop-filter: blur(30px);
   font-family: "Open Sans";
   font-size: 17px;
   font-weight: bolder;
@@ -137,6 +136,7 @@ footer p {
   letter-spacing: 5px;
   text-align: left;
   color: #000000;
+  margin-left: 6px;
 }
 .designation {
   width: 212px;
